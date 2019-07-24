@@ -1,0 +1,11 @@
+C:\Users\dakot\source\repos\Lab 8\bin\Debug\netcoreapp2.2\Lab 8.deps.json
+C:\Users\dakot\source\repos\Lab 8\bin\Debug\netcoreapp2.2\Lab 8.runtimeconfig.json
+C:\Users\dakot\source\repos\Lab 8\bin\Debug\netcoreapp2.2\Lab 8.runtimeconfig.dev.json
+C:\Users\dakot\source\repos\Lab 8\bin\Debug\netcoreapp2.2\Lab 8.dll
+C:\Users\dakot\source\repos\Lab 8\bin\Debug\netcoreapp2.2\Lab 8.pdb
+C:\Users\dakot\source\repos\Lab 8\obj\Debug\netcoreapp2.2\Lab 8.csprojAssemblyReference.cache
+C:\Users\dakot\source\repos\Lab 8\obj\Debug\netcoreapp2.2\Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\Lab 8\obj\Debug\netcoreapp2.2\Lab 8.AssemblyInfoInputs.cache
+C:\Users\dakot\source\repos\Lab 8\obj\Debug\netcoreapp2.2\Lab 8.AssemblyInfo.cs
+C:\Users\dakot\source\repos\Lab 8\obj\Debug\netcoreapp2.2\Lab 8.dll
+C:\Users\dakot\source\repos\Lab 8\obj\Debug\netcoreapp2.2\Lab 8.pdb
